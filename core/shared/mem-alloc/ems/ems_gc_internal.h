@@ -12,6 +12,7 @@ extern "C" {
 
 #include "bh_platform.h"
 #include "ems_gc.h"
+#include <stdlib.h>
 
 /* HMU (heap memory unit) basic block type */
 typedef enum hmu_type_enum {
